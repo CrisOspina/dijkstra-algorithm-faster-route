@@ -16,6 +16,10 @@ Graph - nodes
 
 ## Solution with Dijkstra 🚀
 
+[Theory Wiki](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+
+[Theory Youtube](https://www.youtube.com/watch?v=rh02c7v3EKY&list=LL&index=1)
+
 Add dependencies and run test
 
 ```bash
