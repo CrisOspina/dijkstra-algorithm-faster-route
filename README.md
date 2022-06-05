@@ -14,7 +14,7 @@ Graph - nodes
 
 ![algorithm](https://user-images.githubusercontent.com/38017835/172032381-df7f23bc-70a2-4baa-b681-0456359ccddc.png)
 
-Solution with Dijkstra 🚀
+## Solution with Dijkstra 🚀
 
 Add dependencies and run test
 
