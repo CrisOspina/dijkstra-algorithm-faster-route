@@ -1,0 +1,19 @@
+{
+  "name": "dijkstra-algorithm-faster-route",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [
+    "dijkstra",
+    "algorithm"
+  ],
+  "dependencies": {
+    "node-dijkstra": "^2.5.0"
+  },
+  "devDependencies": {
+    "vitest": "^0.13.1"
+  }
+}
