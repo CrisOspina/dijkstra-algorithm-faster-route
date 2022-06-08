@@ -20,8 +20,16 @@ Graph - nodes
 
 [Theory Youtube](https://www.youtube.com/watch?v=rh02c7v3EKY&list=LL&index=1)
 
-Add dependencies and run test
+## 🚀 Getting started
 
 ```bash
-npm i && npm run test
+npm i
+```
+
+```bash
+npm run start
+```
+
+```bash
+npm run test
 ```
