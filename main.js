@@ -12,3 +12,9 @@ export function getFasterRoute({origin, destiny}) {
 
   return route
 }
+
+const origin = 'C'
+const destiny = 'O'
+const route = getFasterRoute({origin, destiny})
+
+console.log(`Route more faster between C and O: ${route}`)
